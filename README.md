@@ -85,6 +85,6 @@ This project successfully demonstrates how data science techniques can create va
 
 ---
 
-**Author**: **Sayyed Hossein Hosseini DolatAbadi**
+**Author**: **Sayyed Hossein Hosseini DolatAbadi**<br>
 **Contact**: **S.Hossein.Hosseini1381@gmail.com**  
 **Date**: **2025 April 6**  
